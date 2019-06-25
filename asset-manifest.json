@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/apprentice-a11y-web-workshop/static/css/main.5d79e513.chunk.css",
+    "main.js": "/apprentice-a11y-web-workshop/static/js/main.5f91434a.chunk.js",
+    "main.js.map": "/apprentice-a11y-web-workshop/static/js/main.5f91434a.chunk.js.map",
+    "runtime~main.js": "/apprentice-a11y-web-workshop/static/js/runtime~main.c139e76d.js",
+    "runtime~main.js.map": "/apprentice-a11y-web-workshop/static/js/runtime~main.c139e76d.js.map",
+    "static/js/2.f0910273.chunk.js": "/apprentice-a11y-web-workshop/static/js/2.f0910273.chunk.js",
+    "static/js/2.f0910273.chunk.js.map": "/apprentice-a11y-web-workshop/static/js/2.f0910273.chunk.js.map",
+    "index.html": "/apprentice-a11y-web-workshop/index.html",
+    "precache-manifest.448f60dc925f7402125a08da700db97e.js": "/apprentice-a11y-web-workshop/precache-manifest.448f60dc925f7402125a08da700db97e.js",
+    "service-worker.js": "/apprentice-a11y-web-workshop/service-worker.js",
+    "static/css/main.5d79e513.chunk.css.map": "/apprentice-a11y-web-workshop/static/css/main.5d79e513.chunk.css.map",
+    "static/media/logo.svg": "/apprentice-a11y-web-workshop/static/media/logo.5d5d9eef.svg"
+  }
+}
